@@ -157,11 +157,11 @@
             "Paused": "<span foreground='#7e1300'>   </span>"
         }
     },
-    "custom/logo": {
-        "format": "  ",
-        "tooltip": false,
-        "on-click": "~/.config/rofi/launchers/misc/launcher.sh &"
-    },
+    //"custom/logo": {
+    //    "format": "  ",
+    //    "tooltip": false,
+    //    "on-click": "~/.config/rofi/launchers/misc/launcher.sh &"
+    //},
     "custom/power": {
         "format": "",
         "tooltip": false,

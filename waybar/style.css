@@ -1,10 +1,10 @@
 * {
   border: none;
-  border-radius: 0;
+  border-radius: 10px;
   min-height: 0;
   font-weight: bold;
   font-family: JetBrains Mono, HarmonyOS Sans SC;
-  font-size: 14px;
+  font-size: 15px;
 
 }
 
@@ -28,6 +28,7 @@ tooltip label {
 #workspaces {
   padding: 4px 5px;
   border-radius: 16px;
+  border-width: 2px;
   border: solid 0px #51b236;
   font-weight: normal;
   font-style: normal;
@@ -37,6 +38,7 @@ tooltip label {
   padding: 0px 5px;
   margin: 0px 3px;
   border-radius: 16px;
+  border-width: 2px;
   color: #7b86ab;
   background-color: #7b86ab;
   transition: all 0.3s ease-in-out;
@@ -46,6 +48,7 @@ tooltip label {
   color: #51b236;
   background-color: #51b236;
   border-radius: 16px;
+  border-width: 2px;
   min-width: 50px;
   background-size: 400% 400%;
   transition: all 0.3s ease-in-out;
@@ -55,6 +58,7 @@ tooltip label {
   background-color: #51b236;
   color: #51b236;
   border-radius: 16px;
+  border-width: 2px;
   min-width: 50px;
   background-size: 400% 400%;
 }
@@ -75,10 +79,14 @@ tooltip label {
 
 #custom-media {
   color: blue;
+  border-radius: 16px;
+  border-width: 2px;
 }
 
 #custom-logo {
   color: blue;
+  border-radius: 10px;
+  min-width: 160px;
 }
 
 #clock,
