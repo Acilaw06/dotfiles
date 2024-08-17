@@ -1,11 +1,15 @@
 # Except everything
 *
 
-# Add this files
+# Add this folder
 !alacritty/
 !hypr/
 !neofetch/
 !nvim/
 !ulauncher/
 !waybar/
+!wallpaper/
+
+# Add this files
+
 !README.md
