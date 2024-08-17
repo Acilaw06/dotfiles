@@ -1,0 +1,11 @@
+# Except everything
+*
+
+# Add this files
+!alacritty/
+!hypr/
+!neofetch/
+!nvim/
+!ulauncher/
+!waybar/
+!README.md
