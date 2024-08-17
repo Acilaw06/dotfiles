@@ -1,6 +1,6 @@
 lua require('plugins')
 
-#theme
+"theme
 colorscheme onedark
 
 set number
