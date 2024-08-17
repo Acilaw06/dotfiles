@@ -7,3 +7,4 @@ My config files for :
 - alacritty
 - neofetch
 - Hyprland
+- swaylock
