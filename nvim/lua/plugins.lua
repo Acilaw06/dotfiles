@@ -12,7 +12,7 @@ return require('packer').startup(function(use)
 
   use 'tpope/vim-eunuch'
 
-  use {'neoclide/coc.nvim', branch = 'release'}
+  use 'neovim/nvim-lspconfig'
 
   use 'm4xshen/autoclose.nvim'
 
