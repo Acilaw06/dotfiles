@@ -43,6 +43,13 @@
 #pulseaudio,
 #custom-lock,
 #network {
+  color: @yellow;
+  background-color: @surface0;
+  padding: 0.5rem 1rem;
+  margin: 5px 0;
+}
+#bluetooth {
+  color: @maroon;
   background-color: @surface0;
   padding: 0.5rem 1rem;
   margin: 5px 0;

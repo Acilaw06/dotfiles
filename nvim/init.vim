@@ -1,9 +1,8 @@
 lua require('plugins')
 lua require('init')
+lua require('whichkey')
 
 "theme
-colorscheme onedark
-
 set number
 filetype on
 filetype indent on
@@ -24,4 +23,3 @@ set wildmenu
 set completeopt=menu,menuone,noselect
 set wildmode=longest:full,list:full
 set wildignore =*.o,*.obj,*.docx
-
